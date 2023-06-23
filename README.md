@@ -14,8 +14,8 @@ Just open the `index.html` file in a web browser.
 The project consists of the following files:
 
 - `index.html`: The HTML file that contains the structure of the webpage.
-- `styles.css`: The CSS file that applies styles to the grid squares and the container div.
-- `script.js`: The JavaScript file that generates the grid of square divs and handles the hover effect.
+- `styles.css`: The CSS file that applies styles.
+- `script.js`: The JavaScript file contains all program logic.
 
 ## Assignment
 
